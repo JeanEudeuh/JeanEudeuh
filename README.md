@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @JeanEudeuh
 - 👀 I’m interested in learn code
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning BTS GPME (gestion of companys)
+- 💞️ I’m looking to collaborate on code
+- 📫 How to reach me basic code
 
 <!---
 JeanEudeuh/JeanEudeuh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
